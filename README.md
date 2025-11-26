@@ -172,11 +172,4 @@ A clean, minimalistic Next.js 15 App Router application for managing expenses an
 * `GET /accounts/{id}/transactions`
 * `POST /accounts/{id}/transactions`
 
----
 
-If you want, I can also:
-
-✅ Generate a **project architecture diagram**
-✅ Add screenshots / GIFs
-✅ Add a “What I Learned” section
-✅ Produce a polished **PDF version** for submission
